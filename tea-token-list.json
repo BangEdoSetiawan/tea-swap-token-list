@@ -140,6 +140,14 @@
       "symbol": "GULA",
       "logoURI": "https://raw.githubusercontent.com/Yunnie-pin/laporan-mbkm-generator/refs/heads/main/laporan-mbkm-generator/src/assets/gula-white.png",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "",
+      "name": "",
+      "symbol": "",
+      "logoURI": "",
+      "decimals": 18
     }
   ],
   "version": {
