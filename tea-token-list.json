@@ -148,15 +148,7 @@
       "symbol": "TDI",
       "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/a91d06e2ababeca93eb1a7d736cdcaa3accc636d/tea_dogs_inu_transparent.png",
       "decimals": 18
-    },
-      {
-      "chainId": 93384,
-      "address": "0xC4341CB2C976306AE9169efb3d8301ea287a3128",
-      "name": "BITCOIN",
-      "symbol": "BTC",
-      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/907d5668adf1c621ab1b094e151e3d34a85058ac/converted_image.png",
-      "decimals": 18
-    },
+    }
   ],
   "version": {
     "major": 3,
